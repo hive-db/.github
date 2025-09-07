@@ -1,7 +1,7 @@
 <h1 align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hive-db/.github/refs/heads/main/media/hive-stack-block-alt.png">
-        <img width="120px"  alt="Hive Database Logo" src="https://raw.githubusercontent.com/hive-db/.github/refs/heads/main/media/hive-block-stack.png">
+        <img width="120px"  alt="Hive Database Logo" src="https://raw.githubusercontent.com/hive-db/.github/refs/heads/main/media/hive-stack-block.png">
     </picture>
     <br><sub><sup>DATABASE TECHNOLOGY</sup></sub>
 </h1>
